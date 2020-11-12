@@ -1,5 +1,5 @@
 # Algorithms and data structure
-In the course in2010 we have learned several algorithms and data structures. This repository 
+In the course in2010 - University of Oslo we have learned several algorithms and data structures. This repository 
 is implementation of some of the algorithms and data structures.
 
 ##Content (✔ - implemented / ❌ not implemented)
