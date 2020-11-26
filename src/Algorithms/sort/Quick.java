@@ -1,4 +1,4 @@
-package sort;
+package Algorithms.sort;
 
 public class Quick extends Sorter {
 

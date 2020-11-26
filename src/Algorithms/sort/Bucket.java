@@ -1,7 +1,6 @@
-package sort;
+package Algorithms.sort;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Bucket extends Sorter {
     @Override

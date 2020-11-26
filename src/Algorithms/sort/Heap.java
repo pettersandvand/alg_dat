@@ -1,9 +1,9 @@
-package sort;
+package Algorithms.sort;
 
 public class Heap extends Sorter{
 
     /**
-     * Heap sort algorithm. That takes all element of an exisiting array, rearange it to a max heap,
+     * Heap Algorithms.sort algorithm. That takes all element of an exisiting array, rearange it to a max heap,
      * and put the largest element out of the heap and to the back of the array.
      */
     public int[] sort(int[] arrayToSort) {

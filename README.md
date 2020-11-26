@@ -5,12 +5,26 @@ is implementation of some of the algorithms and data structures.
 ##Content (✔ - implemented / ❌ not implemented)
  ### Algorithms
 * Sorting
-    * ❌ Insertion Sort
-    * ❌ Heap Sort
-    * ❌ Bubble sort
-    * ❌ Quick sort
+    * ✔ Insertion sort
+    * ✔ Heap sort
+    * ✔ Bubble sort
+    * ✔ Quick sort
+    * ✔ Bucket sort
+    * ✔ Selection sort
+    * ✔ Merge sort
+
 * Search
-    * ❌ Binary search
+    * ✔ Binary search
+* Graphs
+    * Shortest path
+        * Deikstra
+        * Bellman - Ford
+    * Treversal
+        * Depth-first search
+        * Breadth-first search 
+    * Other
+        * Topological sort
+        
     
 ### Data structures
 * Containers

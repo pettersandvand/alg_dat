@@ -1,6 +1,6 @@
 package utils;
 
-import sort.*;
+import Algorithms.sort.*;
 
 
 import java.io.*;
@@ -13,7 +13,7 @@ public class SortingRunner {
         int[] A = in.lines().mapToInt(i -> Integer.parseInt(i)).toArray();
         in.close();
 
-        runSorter(A, filename, new Bucket());
+        runSorter(A, filename, new Heap());
 
     }
     static void runSorter(int[] A, String inFile, Sorter algorithm) throws IOException {
@@ -23,7 +23,7 @@ public class SortingRunner {
             File outfile = new File(outfilename);
             BufferedWriter writer = new BufferedWriter(new PrintWriter(outfile));
 
-            // Initialize and sort
+            // Initialize and Algorithms.sort
             int[] sorted = algorithm.sort(A);
 
             // Write results to file
