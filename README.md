@@ -17,13 +17,13 @@ is implementation of some of the algorithms and data structures.
     * ✔ Binary search
 * Graphs
     * Shortest path
-        * Deikstra
-        * Bellman - Ford
+        * ❌ Deikstra
+        * ❌ Bellman - Ford
     * Treversal
-        * Depth-first search
-        * Breadth-first search 
+        * ❌ Depth-first search
+        * ❌ Breadth-first search 
     * Other
-        * Topological sort
+        * ❌ Topological sort
         
     
 ### Data structures
